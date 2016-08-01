@@ -1,7 +1,8 @@
 # GremmlenzDOCK - V.1.0.0
+
 Docking algorithms for VHTS of zinc enzymes
 
-This script was made as an attempt to create a easy to use rotine of VHTS of zinc enzymes. By following the stepts provided by GremmlenzDOCK.py one should be able to tackle the herculean job of docking thousands of compounds to a huge group of target proteins, even better, proteins whose active site has zinc coordinated such the B group of beta-lactamase hydrolases.
+This script was made as an attempt to create an easy to use rotine of VHTS for zinc enzymes. By following the stepts provided by GremmlenzDOCK.py one should be able to tackle the herculean job of docking thousands of compounds to a huge group of target proteins, even better, proteins whose active site has zinc coordinated to it, such the B group of beta-lactamase hydrolases.
 
 These scripts are still under development and may behave unproperly under different OS.
 
